@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "491249346696",
+    "firebase_url": "https://student-fd769-default-rtdb.firebaseio.com",
+    "project_id": "student-fd769",
+    "storage_bucket": "student-fd769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491249346696:android:5c7fd5b6569a509a82573d",
+        "android_client_info": {
+          "package_name": "com.example.student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgi0r8X5hySRsiQDUjslU3DjmRdIDlGhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
